@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamDmishra
 - 👀 I’m interested in Hiring Tech roles
-- 🌱 I’m currently looking for Pythin developer
-- 💞️ I’m looking to collaborate.
+- 🌱 I’m currently looking for Python developer
+- 💞️ I’m looking to hire tech talent.
 - 📫 Share your resume at deepak@xpayback.com
 
 <!---
